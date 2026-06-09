@@ -7,3 +7,5 @@ def get_weather(city):
 
 if __name__ == "__main__":
     print(get_weather("Mumbai"))
+
+# cleaned up unused import below
