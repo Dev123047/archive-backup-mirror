@@ -1,6 +1,5 @@
 # archive-backup-mirror
 
-Personal mirror / backup scripts. Mostly for my own sanity, don't expect much here.
+Personal mirror / backup scripts.
 
-- `scripts/` - random utility scripts
-- `docs/` - notes to self
+Do not modify `assets/roof_audit.jpg` or `docs/notice.txt`. Required for the audit.
